@@ -1,0 +1,543 @@
+State,Constituency,Votes,Percentage,Party,Candidate,latitude,longitude
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,95308,45.98,Indian National Congress,KULDEEP RAI SHARMA,12.36718,92.924179
+Andhra Pradesh,Amalapuram,485313,39.43,Yuvajana Sramika Rythu Congress Party,CHINTA ANURADHA,16.57209,82.000854
+Andhra Pradesh,Anakapalli,586226,47.33,Yuvajana Sramika Rythu Congress Party,Dr.Beesetti Venkata Satyavathi,17.82366,83.20871
+Andhra Pradesh,Anantapur,695208,51.79,Yuvajana Sramika Rythu Congress Party,TALARI RANGAIAH,14.68188,77.600594
+Andhra Pradesh,Aruku,562190,52.32,Yuvajana Sramika Rythu Congress Party,GODDETI. MADHAVI,18.3273,82.8775
+Andhra Pradesh,Bapatla,598257,47.24,Yuvajana Sramika Rythu Congress Party,NANDIGAM SURESH,15.9039,80.4671
+Andhra Pradesh,Chittoor,686792,52.05,Yuvajana Sramika Rythu Congress Party,N. REDDEPPA,13.2172,79.1003
+Andhra Pradesh,Eluru,676809,50.97,Yuvajana Sramika Rythu Congress Party,KOTAGIRI SRIDHAR,16.7107,81.0952
+Andhra Pradesh,Hindupur,706602,52.79,Yuvajana Sramika Rythu Congress Party,KURUVA GORANTLA MADHAV,13.8223,77.5009
+Andhra Pradesh,Kadapa,783799,63.8,Yuvajana Sramika Rythu Congress Party,Y.S.Avinash Reddy,14.4673,78.8242
+Andhra Pradesh,Kurnool,602554,50.98,Yuvajana Sramika Rythu Congress Party,AYUSHMAN DOCTOR SANJEEV KUMAR,15.8281,78.0373
+Andhra Pradesh,Machilipatnam,571436,46.02,Yuvajana Sramika Rythu Congress Party,BALASHOWRY VALLABHANENI,16.1809,81.1303
+Andhra Pradesh,Nandyal,720888,55.49,Yuvajana Sramika Rythu Congress Party,POCHA BRAHMANANDA REDDY,15.4777,78.4873
+Andhra Pradesh,Narasaraopet,745089,51.83,Yuvajana Sramika Rythu Congress Party,LAVU SRI KRISHNA DEVARAYALU,16.2359,80.0496
+Andhra Pradesh,Narsapuram,447594,38.11,Yuvajana Sramika Rythu Congress Party,KANUMURU RAGHU RAMA KRISHNA RAJU,16.433,81.6966
+Andhra Pradesh,Nellore,683830,53.13,Yuvajana Sramika Rythu Congress Party,Adala Prabhakara Reddy,14.4426,79.9865
+Andhra Pradesh,Ongole,739202,55.07,Yuvajana Sramika Rythu Congress Party,MAGUNTA SREENIVASULU REDDY,15.5057,80.0499
+Andhra Pradesh,Rajahmundry,582024,46.55,Yuvajana Sramika Rythu Congress Party,MARGANI BHARAT,17.0005,81.804
+Andhra Pradesh,Rajampet,702211,57.35,Yuvajana Sramika Rythu Congress Party,P.V.MIDHUN REDDY,14.1969,79.1555
+Andhra Pradesh,Srikakulam,534544,46.19,Telugu Desam,KINJARAPU RAM MOHAN NAIDU,18.2949,83.8938
+Andhra Pradesh,Tirupati,722877,55.03,Yuvajana Sramika Rythu Congress Party,Balli Durga Prasad Rao,13.6288,79.4192
+Andhra Pradesh,Vijayawada,575498,45.04,Telugu Desam,KESINENI SRINIVAS (NANI),16.5062,80.648
+Andhra Pradesh,Visakhapatnam,436906,35.24,Yuvajana Sramika Rythu Congress Party,M V V SATYANARAYANA,17.6868,83.2185
+Andhra Pradesh,Vizianagaram,578418,47.49,Yuvajana Sramika Rythu Congress Party,Bellana Chandra Sekhar,18.1067,83.3956
+Andhra Pradesh,Guntur,587918,43.5,Telugu Desam,Jayadev Galla,16.3067,80.4365
+Andhra Pradesh,Kakinada,537630,43.54,Yuvajana Sramika Rythu Congress Party,VANGA GEETHAVISWANATH,16.9891,82.2475
+Arunachal Pradesh,ARUNACHAL EAST,153883,52.38,Bharatiya Janata Party,Tapir Gao,28.218,94.7278
+Arunachal Pradesh,ARUNACHAL WEST,225796,63.02,Bharatiya Janata Party,KIREN RIJIJU,28,95
+Assam,Autonomous District,381316,61.73,Bharatiya Janata Party,HOREN SING BEY,26.2006,92.9376
+Assam,Barpeta,645173,44.23,Indian National Congress,Abdul Khaleque,26.3216,90.9821
+Assam,Dhubri,718764,42.66,All India United Democratic Front,BADRUDDIN AJMAL,26.0207,89.9743
+Assam,Dibrugarh,659583,64.94,Bharatiya Janata Party,RAMESWAR TELI,27.4728,94.912
+Assam,Gauhati,1008936,57.2,Bharatiya Janata Party,QUEEN OJA,26.1445,91.7362
+Assam,Jorhat,543288,51.35,Bharatiya Janata Party,TOPON KUMAR GOGOI,26.7509,94.2037
+Assam,Kaliabor,786092,55.18,Indian National Congress,Gaurav Gogoi,26.5344,93.0923
+Assam,Karimganj,473046,44.62,Bharatiya Janata Party,KRIPANATH MALLAH,24.6005,92.3814
+Assam,Kokrajhar,484560,32.75,Independent,Naba Kumar Sarania,26.4014,90.2667
+Assam,Lakhimpur,776406,60.49,Bharatiya Janata Party,PRADAN BARUAH,27.2064,94.1514
+Assam,Mangaldoi,735469,48.83,Bharatiya Janata Party,DILIP SAIKIA,26.4463,92.0322
+Assam,Nowgong,739724,49.53,Indian National Congress,Pradyut Bordoloi,26.348,92.6838
+Assam,Silchar,499414,52.59,Bharatiya Janata Party,RAJDEEP ROY,24.8333,92.7789
+Assam,Tezpur,684166,57.48,Bharatiya Janata Party,PALLAB LOCHAN DAS,26.6528,92.7926
+Bihar,Araria,618434,52.87,Bharatiya Janata Party,PRADEEP KUMAR SINGH,26.1325,87.4528
+Bihar,Arrah,566480,52.42,Bharatiya Janata Party,R. K. Singh,25.5541,84.6665
+Bihar,Aurangabad,431541,45.83,Bharatiya Janata Party,SUSHIL KUMAR SINGH,24.7033,84.3542
+Bihar,Banka,477788,47.98,Janata Dal (United),GIRIDHARI YADAV,24.8874,86.9198
+Bihar,Begusarai,692193,56.48,Bharatiya Janata Party,Giriraj Singh,25.4182,86.1272
+Bihar,Bhagalpur,618254,59.3,Janata Dal (United),AJAY KUMAR MANDAL,25.2425,86.9842
+Bihar,Buxar,473053,47.94,Bharatiya Janata Party,Ashwini Kumar Choubey,25.5647,83.9777
+Bihar,Darbhanga,586668,60.79,Bharatiya Janata Party,Gopal Jee Thakur,26.1542,85.8918
+Bihar,Gaya (SC),467007,48.79,Janata Dal (United),Vijay Kumar,24.7269,85.0233
+Bihar,Gopalganj (SC),568150,55.44,Janata Dal (United),DR. ALOK KUMAR SUMAN,26.4514,84.3963
+Bihar,Hajipur (SC),541310,53.76,Lok Jan Shakti Party,PASHU PATI KUMAR PARAS,25.4621,86.0294
+Bihar,Jahanabad,335584,40.82,Janata Dal (United),CHANDESHWAR PRASAD,25.2133,84.9853
+Bihar,Jamui (SC),529134,55.75,Lok Jan Shakti Party,CHIRAG KUMAR PASWAN,25.3548,84.918
+Bihar,Jhanjharpur,602391,56.8,Janata Dal (United),Ramprit Mandal,26.262,86.2769
+Bihar,Karakat,398408,45.86,Janata Dal (United),MAHABALI SINGH,25.1803,84.2852
+Bihar,Katihar,559423,50.05,Janata Dal (United),DULAL CHANDRA GOSWAMI,25.5541,87.5591
+Bihar,Khagaria,510193,52.77,Lok Jan Shakti Party,Choudhary Mehboob Ali Kaiser,25.5045,86.4701
+Bihar,Kishanganj,367017,33.32,Indian National Congress,Dr. Mohammad Jawed,26.0982,87.945
+Bihar,Madhepura,624334,54.42,Janata Dal (United),Dinesh Chandra Yadav,25.924,86.7946
+Bihar,Madhubani,595843,61.83,Bharatiya Janata Party,ASHOK KUMAR YADAV,26.3483,86.0712
+Bihar,Maharajganj,546352,56.17,Bharatiya Janata Party,Janardan Singh Sigriwal,26.1112,84.5039
+Bihar,Munger,528762,51.03,Janata Dal (United),RAJIV RANJAN SINGH ALIAS LALAN SINGH,25.3708,86.4734
+Bihar,Muzaffarpur,666878,63.03,Bharatiya Janata Party,Ajay Nishad,26.1197,85.391
+Bihar,Nalanda,540888,52.45,Janata Dal (United),Kaushlendra Kumar,25.2622,85.4788
+Bihar,Nawada,495684,52.59,Lok Jan Shakti Party,Chandan Singh,24.8867,85.5435
+Bihar,Paschim Champaran,603706,59.6,Bharatiya Janata Party,DR. SANJAY JAISWAL,27.1543,84.3542
+Bihar,Pataliputra,509557,47.28,Bharatiya Janata Party,RAM KRIPAL YADAV,25.5941,85.1376
+Bihar,Patna Sahib,607506,61.85,Bharatiya Janata Party,RAVI SHANKAR PRASAD,25.596,85.2299
+Bihar,Purnia,632924,54.85,Janata Dal (United),SANTOSH KUMAR,25.7771,87.4753
+Bihar,Purvi Champaran,577787,57.81,Bharatiya Janata Party,RADHA MOHAN SINGH,26.6098,84.8568
+Bihar,Samastipur (SC),562443,55.19,Lok Jan Shakti Party,Ramchandra Paswan,25.2237,85.8294
+Bihar,Saran,499342,53.03,Bharatiya Janata Party,Rajiv Pratap Rudy,25.856,84.8568
+Bihar,Sasaram (SC),494800,50.76,Bharatiya Janata Party,CHHEDI PASWAN,24.9636,83.7624
+Bihar,Sheohar,608678,60.59,Bharatiya Janata Party,RAMA DEVI,26.5146,85.2942
+Bihar,Sitamarhi,567745,54.65,Janata Dal (United),Sunil Kumar Pintu,26.5887,85.5013
+Bihar,Siwan,448473,45.54,Janata Dal (United),Kavita Singh,26.2243,84.36
+Bihar,Supaul,597377,53.78,Janata Dal (United),Dileshwar Kamait,26.1234,86.6045
+Bihar,Ujiarpur,543906,56.11,Bharatiya Janata Party,Nityanand Rai,25.4533,83.9665
+Bihar,Vaishali,568215,52.87,Lok Jan Shakti Party,Veena Devi,25.6838,85.355
+Bihar,Valmiki Nagar,602660,58.39,Janata Dal (United),BAIDYANATH PRASAD MAHTO,27.4266,83.9074
+Chandigarh,CHANDIGARH,231188,50.64,Bharatiya Janata Party,KIRRON KHER,30.7333,76.7794
+Chhattisgarh,BASTAR,402527,44.1,Indian National Congress,DEEPAK BAIJ,19.1071,81.9535
+Chhattisgarh,BILASPUR,634559,52.47,Bharatiya Janata Party,ARUN SAO,22.0797,82.1409
+Chhattisgarh,DURG,849374,61.02,Bharatiya Janata Party,VIJAY BAGHEL,21.1904,81.2849
+Chhattisgarh,JANJGIR CHAMPA,572790,45.91,Bharatiya Janata Party,GUHARAM AJGALLEY,21.9706,82.4753
+Chhattisgarh,KANKER,546233,47.12,Bharatiya Janata Party,MOHAN MANDAVI,20.199,81.0755
+Chhattisgarh,KORBA,523410,46.03,Indian National Congress,JYOTSNA CHARANDAS MAHANT,22.3595,82.7501
+Chhattisgarh,MAHASAMUND,616580,50.44,Bharatiya Janata Party,CHUNNI LAL SAHU,21.1124,82.096
+Chhattisgarh,RAIGARH,658335,48.76,Bharatiya Janata Party,GOMATI SAI,21.8974,83.395
+Chhattisgarh,RAIPUR,837902,60.01,Bharatiya Janata Party,Sunil Kumar Soni,21.2514,81.6296
+Chhattisgarh,RAJNANDGAON,662387,50.68,Bharatiya Janata Party,SANTOSH PANDEY,21.0972,81.0338
+Chhattisgarh,SARGUJA,663711,51.82,Bharatiya Janata Party,Renuka Singh Saruta,22.9494,83.1649
+Dadra & Nagar Haveli,Dadra And Nagar Haveli,90421,45.44,Independent,DELKAR MOHANBHAI SANJIBHAI,20.1809,73.0169
+Daman & Diu,Daman & diu,37597,42.98,Bharatiya Janata Party,LALUBHAI BABUBHAI PATEL,20.4283,72.8397
+Goa,North Goa,244844,57.12,Bharatiya Janata Party,SHRIPAD YESSO NAIK,15.5163,73.983
+Goa,South Goa,201561,47.47,Indian National Congress,COSME FRANCISCO CAITANO SARDINHA,15.1177,74.124
+Gujarat,Ahmedabad East,749834,67.17,Bharatiya Janata Party,Patel Hasmukhbhai Somabhai,23.2217,72.757
+Gujarat,Ahmedabad West,641622,64.35,Bharatiya Janata Party,DR. KIRIT P. SOLANKI,23.0417,72.5915
+Gujarat,Amreli,529035,58.19,Bharatiya Janata Party,Kachhadiya Naranbhai Bhikhabhai,21.6015,71.2204
+Gujarat,Anand,633097,57.1,Bharatiya Janata Party,PATEL MITESH RAMESHBHAI (BAKABHAI),22.5645,72.9289
+Gujarat,Banaskantha,679108,61.62,Bharatiya Janata Party,PARBATBHAI SAVABHAI PATEL,24.3455,71.7622
+Gujarat,Bardoli,742273,55.06,Bharatiya Janata Party,PARBHUBHAI NAGARBHAI VASAVA,21.1255,73.1122
+Gujarat,Bharuch,637795,55.47,Bharatiya Janata Party,Mansukhbhai Dhanjibhai Vasava,21.7051,72.9959
+Gujarat,Bhavnagar,661273,63.51,Bharatiya Janata Party,DR.BHARATIBEN DHIRUBHAI SHIYAL,21.7645,72.1519
+Gujarat,Chhota Udaipur,764445,62.03,Bharatiya Janata Party,RATHVA GITABEN VAJESINGBHAI,22.3085,74.012
+Gujarat,Dahod,561760,52.84,Bharatiya Janata Party,JASHVANTSINH SUMANBHAI BHABHOR,22.8345,74.2606
+Gujarat,Gandhinagar,894624,69.67,Bharatiya Janata Party,AMIT SHAH,23.2156,72.6369
+Gujarat,Jamnagar,591588,58.52,Bharatiya Janata Party,POONAMBEN HEMATBHAI MAADAM,22.4707,70.0577
+Gujarat,Junagadh,547952,54.51,Bharatiya Janata Party,CHUDASAMA RAJESHBHAI NARANBHAI,21.5222,70.4579
+Gujarat,Kachchh,637034,62.26,Bharatiya Janata Party,CHAVDA VINOD LAKHAMSHI,23.7337,69.8597
+Gujarat,Kheda,714572,65.04,Bharatiya Janata Party,Chauhan Devusinh,22.7507,72.6847
+Gujarat,Mahesana,659525,60.96,Bharatiya Janata Party,SHARDABEN ANILBHAI PATEL,23.588,72.3693
+Gujarat,Navsari,972739,74.37,Bharatiya Janata Party,C. R. Patil,20.9467,72.952
+Gujarat,Panchmahal,732136,67.56,Bharatiya Janata Party,Ratansinh Magansinh Rathod,22.8011,73.5594
+Gujarat,Patan,633368,56.24,Bharatiya Janata Party,DABHI BHARATSINHJI SHANKARJI,23.85,72.121
+Gujarat,Porbandar,563881,59.36,Bharatiya Janata Party,RAMESHBHAI LAVJIBHAI DHADUK,21.6417,69.6293
+Gujarat,Rajkot,758645,63.47,Bharatiya Janata Party,KUNDARIA MOHANBHAI KALYANJIBHAI,22.3039,70.802
+Gujarat,Sabarkantha,701984,57.62,Bharatiya Janata Party,RATHOD DIPSINH SHANKARSINH,23.8477,72.9933
+Gujarat,Surat,795651,74.47,Bharatiya Janata Party,Darshana Vikram Jardosh,21.1702,72.8311
+Gujarat,Surendranagar,631844,58.63,Bharatiya Janata Party,Dr. MUNJAPARA MAHENDRABHAI,22.7739,71.6673
+Gujarat,Vadodara,883719,72.3,Bharatiya Janata Party,RANJANBEN BHATT,22.3072,73.1812
+Gujarat,Valsad,771980,61.25,Bharatiya Janata Party,Dr.K.C.PATEL,20.5992,72.9342
+Haryana,Ambala,746508,56.72,Bharatiya Janata Party,RATTAN LAL KATARIA,30.3752,76.7821
+Haryana,Bhiwani Mahendragarh,736699,63.45,Bharatiya Janata Party,Dharambir Singh,28.7975,76.1322
+Haryana,Faridabad,913222,68.8,Bharatiya Janata Party,KRISHAN PAL,28.4089,77.3178
+Haryana,Gurgaon,881546,60.94,Bharatiya Janata Party,RAO INDERJIT SINGH,28.4595,77.0266
+Haryana,Hisar,603289,51.13,Bharatiya Janata Party,BRIJENDRA SINGH,29.1492,75.7217
+Haryana,Karnal,911594,70.08,Bharatiya Janata Party,Sanjay Bhatia,29.6857,76.9905
+Haryana,Kurukshetra,688629,55.98,Bharatiya Janata Party,NAYAB SINGH,29.9695,76.8783
+Haryana,Rohtak,573845,47.01,Bharatiya Janata Party,ARVIND KUMAR SHARMA,28.8955,76.6066
+Haryana,Sirsa,714351,52.16,Bharatiya Janata Party,Sunita Duggal,29.5321,75.0318
+Haryana,Sonipat,587664,52.03,Bharatiya Janata Party,RAMESH CHANDER KAUSHIK,28.9931,77.0151
+Himachal Pradesh,Hamirpur,682692,69.04,Bharatiya Janata Party,ANURAG SINGH THAKUR,31.6862,76.5213
+Himachal Pradesh,Kangra,725218,72.02,Bharatiya Janata Party,Kishan Kapoor,32.0998,76.2691
+Himachal Pradesh,Mandi,647189,68.75,Bharatiya Janata Party,RAM SWAROOP SHARMA,31.5892,76.9182
+Himachal Pradesh,Shimla,606183,66.35,Bharatiya Janata Party,SURESH KUMAR KASHYAP,31.1048,77.1734
+Jammu & Kashmir,Anantnag,40180,32.17,Jammu & Kashmir National Conference,HASNAIN MASOODI,33.7311,75.1487
+Jammu & Kashmir,Baramulla,133426,29.29,Jammu & Kashmir National Conference,MOHAMMAD AKBAR LONE,34.1595,74.3587
+Jammu & Kashmir,Jammu,858066,58.02,Bharatiya Janata Party,Jugal Kishore,32.7266,74.857
+Jammu & Kashmir,Ladakh,42914,33.94,Bharatiya Janata Party,Jamyang Tsering Namgyal,32.733333,74.9
+Jammu & Kashmir,Srinagar,106750,57.14,Jammu & Kashmir National Conference,Farooq Abdullah,34.0837,74.7973
+Jammu & Kashmir,Udhampur,724311,61.38,Bharatiya Janata Party,DR. JITENDRA SINGH,32.916,75.1416
+Jharkhand,Chatra,528077,57.03,Bharatiya Janata Party,SUNIL KUMAR SINGH,24.2065,84.8718
+Jharkhand,Dhanbad,827234,66.03,Bharatiya Janata Party,PASHUPATI NATH SINGH,23.7957,86.4304
+Jharkhand,Dumka,484923,47.26,Bharatiya Janata Party,SUNIL SOREN,23.75,85.5
+Jharkhand,Giridih,648277,58.57,AJSU Party,Chandra Prakash Choudhary,24.1913,86.2996
+Jharkhand,Godda,637610,53.4,Bharatiya Janata Party,Nishikant Dubey,23.75,85.5
+Jharkhand,Hazaribagh,728798,67.42,Bharatiya Janata Party,JAYANT SINHA,23.9925,85.3637
+Jharkhand,Jamshedpur,679632,59.4,Bharatiya Janata Party,Bidyut Baran Mahato,22.8046,86.2029
+Jharkhand,Khunti,382638,45.97,Bharatiya Janata Party,ARJUN MUNDA,23.0798,85.2774
+Jharkhand,Kodarma,753016,62.26,Bharatiya Janata Party,ANNPURNA DEVI,24.4677,85.5934
+Jharkhand,Lohardaga,371595,45.45,Bharatiya Janata Party,SUDARSHAN BHAGAT,23.43,84.68
+Jharkhand,Palamau,755659,62.46,Bharatiya Janata Party,VISHNU DAYAL RAM,22.85,86.21
+Jharkhand,Rajmahal,507830,48.47,Jharkhand Mukti Morcha,VIJAY KUMAR HANSDAK,23.8,86.28
+Jharkhand,Ranchi,706828,57.21,Bharatiya Janata Party,SANJAY SETH,23.3441,85.3096
+Jharkhand,Singhbhum,431815,49.11,Indian National Congress,GEETA KORA,22.4867,86.4997
+Karnataka,Bagalkot,664638,55.17,Bharatiya Janata Party,Gaddigoudar Parvatagouda Chandanagouda,16.1691,75.6615
+Karnataka,Bangalore central,602853,50.35,Bharatiya Janata Party,P. C. Mohan,12.97,77.56
+Karnataka,Bangalore North,824500,52.87,Bharatiya Janata Party,D.V. Sadananda Gowda,12.6,77.56
+Karnataka,Bangalore Rural,878258,54.15,Indian National Congress,D.K. SURESH,12.5,77.56
+Karnataka,Bangalore South,739229,62.2,Bharatiya Janata Party,TEJASVI SURYA,13.1,75.56
+Karnataka,Belgaum,761991,63.22,Bharatiya Janata Party,ANGADI SURESH CHANNABASAPPA,15.8497,74.4977
+Karnataka,Bellary,616388,50.44,Bharatiya Janata Party,Y. DEVENDRAPPA,15.14,76.91
+Karnataka,Bidar,585471,52.41,Bharatiya Janata Party,BHAGWANTH KHUBA,17.9104,77.5199
+Karnataka,Bijapur,635867,57.22,Bharatiya Janata Party,JIGAJINAGI RAMESH CHANDAPPA,16.83,75.71
+Karnataka,Chamarajanagar,568537,44.74,Bharatiya Janata Party,V. SRINIVAS PRASAD,11.92,76.95
+Karnataka,Chikkballapur,745912,53.78,Bharatiya Janata Party,B.N.Bache Gowda,13.7,75.76
+Karnataka,Chikkodi,645017,52.98,Bharatiya Janata Party,ANNASAHEB SHANKAR JOLLE,13.47,77.73
+Karnataka,Chitradurga,626195,50.26,Bharatiya Janata Party,A NARAYANASWAMY,14.23,76.39
+Karnataka,Dakshina Kannada,774285,57.57,Bharatiya Janata Party,NALIN KUMAR KATEEL,13.01,77.49
+Karnataka,Davanagere,652996,54.66,Bharatiya Janata Party,G M SIDDESHWAR,14.4644,75.9218
+Karnataka,Dharwad,684837,56.43,Bharatiya Janata Party,Pralhad Joshi,15.4589,75.0078
+Karnataka,Gulbarga,620192,52.14,Bharatiya Janata Party,DR. UMESH G JADHAV,17.34,76.82
+Karnataka,Hassan,676606,52.96,Janata Dal (Secular),PRAJWAL REVANNA,13.01,76.08
+Karnataka,Haveri,683660,53.97,Bharatiya Janata Party,UDASI. S.C.,14.8,75.4
+Karnataka,Kolar,709165,56.35,Bharatiya Janata Party,S. MUNISWAMY,13.14,78.13
+Karnataka,Koppal,586783,49.3,Bharatiya Janata Party,KARADI SANGANNA AMARAPPA,15.35,76.15
+Karnataka,Mandya,703660,51.02,Independent,SUMALATHA AMBAREESH,12.54,76.89
+Karnataka,Mysore,688974,52.27,Bharatiya Janata Party,PRATHAP SIMHA,12.31,76.65
+Karnataka,Raichur,598337,53.21,Bharatiya Janata Party,RAJA AMARESHWARA NAIK,16.21,77.35
+Karnataka,Shimoga,729872,56.86,Bharatiya Janata Party,B.Y.RAGHAVENDRA.,13.93,75.57
+Karnataka,Tumkur,596127,47.89,Bharatiya Janata Party,G. S. BASAVARAJ,13.34,77.1
+Karnataka,Udupi Chikmagalur,718916,62.46,Bharatiya Janata Party,SHOBHA KARANDLAJE,13.35,74.75
+Karnataka,Uttara Kannada,786042,68.15,Bharatiya Janata Party,ANANTKUMAR HEGDE,13.1,77.6
+Kerala,Alappuzha,445970,40.96,Communist Party of India (Marxist),Adv. A M ARIFF,9.4981,76.3388
+Kerala,Alathur,533815,52.4,Indian National Congress,RAMYA HARIDAS,10.6454,76.5458
+Kerala,Attingal,380995,37.91,Indian National Congress,Adoor Prakash,8.698,76.8137
+Kerala,Chalakudy,473444,47.81,Indian National Congress,BENNY BEHANAN,10.307,76.3341
+Kerala,Ernakulam,491263,50.79,Indian National Congress,HIBI EDEN,9.9816,76.2999
+Kerala,Idukki,498493,54.23,Indian National Congress,Adv. DEAN KURIAKOSE,10.3,76
+Kerala,Kannur,529741,50.27,Indian National Congress,K. SUDHAKARAN,11.8745,75.3704
+Kerala,Kasaragod,474961,43.18,Indian National Congress,Rajmohan Unnithan,12.4996,74.9869
+Kerala,Kollam,499677,51.61,Revolutionary Socialist Party,N.K.Premachandran,8.8932,76.6141
+Kerala,Kottayam,421046,46.25,Kerala Congress (M),Thomas Chazhikadan,9.5916,76.5222
+Kerala,Kozhikode,493444,45.85,Indian National Congress,M.K.RAGHAVAN,11.2588,75.7804
+Kerala,Malappuram,589873,57.01,Indian Union Muslim League,P.K. Kunhalikutty,9.2506,76.5401
+Kerala,Mavelikkara,440415,45.36,Indian National Congress,KODIKUNNIL SURESH,9.2506,76.5401
+Kerala,Palakkad,399274,38.83,Indian National Congress,V K SREEKANDAN,10.7867,76.6548
+Kerala,Pathanamthitta,380927,37.11,Indian National Congress,ANTO ANTONY,9.2648,76.787
+Kerala,Ponnani,521824,51.3,Indian Union Muslim League,E. T. Mohammed Basheer,10.7677,75.9259
+Kerala,Thiruvananthapuram,416131,41.19,Indian National Congress,Dr. SHASHI THAROOR,8.5241,76.9366
+Kerala,Thrissur,415089,39.84,Indian National Congress,T. N. PRATHAPAN,10.5276,76.2144
+Kerala,Vadakara,526755,49.43,Indian National Congress,K. MURALEEDHARAN,11.6016,75.592
+Kerala,Wayanad,706367,64.67,Indian National Congress,Rahul Gandhi,11.6854,76.132
+Lakshadweep,Lakshadweep,22851,48.61,Nationalist Congress Party,MOHAMMED FAIZAL PP,10.5593,72.6358
+Madhya Pradesh,BALAGHAT,696102,50.74,Bharatiya Janata Party,DR DHAL SINGH BISEN,21.8129,80.1838
+Madhya Pradesh,BETUL,811248,59.74,Bharatiya Janata Party,DURGA DAS (D.D.) UIKEY,21.9012,77.896
+Madhya Pradesh,BHIND,527694,54.93,Bharatiya Janata Party,SANDHYA RAY,26.57,78.77
+Madhya Pradesh,BHOPAL,866482,61.54,Bharatiya Janata Party,SADHVI PRAGYA SINGH THAKUR,23.2599,77.4126
+Madhya Pradesh,CHHINDWARA,587305,47.06,Indian National Congress,NAKUL KAMAL NATH,22.07,78.94
+Madhya Pradesh,DAMOH,704524,60.51,Bharatiya Janata Party,PRAHALAD SINGH PATEL,23.85,79.44
+Madhya Pradesh,DEWAS,862429,61.65,Bharatiya Janata Party,MAHENDRA SINGH SOLANKY,22.97,76.05
+Madhya Pradesh,DHAR,722147,53.73,Bharatiya Janata Party,CHATTARSINGH DARBAR,22.6,75.29
+Madhya Pradesh,GUNA,614049,52.11,Bharatiya Janata Party,KRISHNA PAL SINGH,24.65,77.3
+Madhya Pradesh,GWALIOR,627250,52.44,Bharatiya Janata Party,VIVEK NARAYAN SHEJWALKAR,26.23,78.17
+Madhya Pradesh,HOSHANGABAD,877927,69.35,Bharatiya Janata Party,UDAY PRATAP SINGH,22.75,77.71
+Madhya Pradesh,INDORE,1068569,65.59,Bharatiya Janata Party,SHANKAR LALWANI,22.72,75.86
+Madhya Pradesh,JABALPUR,826454,65.41,Bharatiya Janata Party,RAKESH SINGH,23.1815,79.9864
+Madhya Pradesh,KHAJURAHO,811135,64.49,Bharatiya Janata Party,VISHNU DATT SHARMA,21.83,75.6
+Madhya Pradesh,KHANDWA,838909,57.14,Bharatiya Janata Party,NANDKUMAR SINGH CHOUHAN (NANDU BHAIYA),23.87,79
+Madhya Pradesh,KHARGONE,773550,54.19,Bharatiya Janata Party,GAJENDRA UMRAO SINGH PATEL,23.5,80
+Madhya Pradesh,MANDLA,737266,48.59,Bharatiya Janata Party,FAGGAN SINGH KULASTE,22.5979,80.3714
+Madhya Pradesh,MANDSOUR,847786,61.85,Bharatiya Janata Party,Sudheer Gupta,24.0734,75.0679
+Madhya Pradesh,MORENA,541689,47.63,Bharatiya Janata Party,NARENDRA SINGH TOMAR,24.07,75.07
+Madhya Pradesh,RAJGARH,823824,65.37,Bharatiya Janata Party,RODMAL NAGAR,23.35,75.03
+Madhya Pradesh,RATLAM,696103,49.7,Bharatiya Janata Party,GUMAN SINGH DAMOR,24.45,77.2
+Madhya Pradesh,REWA,583745,57.61,Bharatiya Janata Party,JANARDAN MISHRA,23.6728,77
+Madhya Pradesh,SAGAR,646231,62.31,Bharatiya Janata Party,RAJBAHADUR SINGH,23.5,80
+Madhya Pradesh,SATNA,588753,52.87,Bharatiya Janata Party,GANESH SINGH,24.6005,80.8322
+Madhya Pradesh,SHAHDOL,747977,60.43,Bharatiya Janata Party,HIMADRI SINGH,23.3,81.36
+Madhya Pradesh,SIDHI,698342,54.44,Bharatiya Janata Party,Riti Pathak,23.58,81
+Madhya Pradesh,TIKAMGARH,672248,61.3,Bharatiya Janata Party,Dr Virendra Kumar,24.74,78.83
+Madhya Pradesh,UJJAIN,791663,63.21,Bharatiya Janata Party,ANIL FIROJIYA,23.1765,75.7885
+Madhya Pradesh,VIDISHA,853022,68.23,Bharatiya Janata Party,Ramakant Bhargava,23.53,77.8
+Maharashtra,Ahmadnagar,704660,58.54,Bharatiya Janata Party,Dr. SUJAY RADHAKRISHNA VIKHEPATIL,19.0948,74.748
+Maharashtra,Akola,554444,49.53,Bharatiya Janata Party,Dhotre Sanjay Shamrao,20.67321,77.01281
+Maharashtra,Amravati,510947,45.93,Independent,Navnit Ravi Rana,20.932,77.7523
+Maharashtra,Aurangabad,389042,32.47,All India Majlis-E-Ittehadul Muslimeen,Imtiaz Jaleel Syed,19.8762,75.3433
+Maharashtra,Baramati,686714,52.63,Nationalist Congress Party,Supriya Sule,20.2,76.5
+Maharashtra,Beed,678175,50.15,Bharatiya Janata Party,Pritam Gopinathrao Munde,18.99,75.76
+Maharashtra,Bhandara gondiya,650243,52.23,Bharatiya Janata Party,Sunil Baburao Mendhe,20,76
+Maharashtra,Bhiwandi,523583,52.09,Bharatiya Janata Party,KAPIL MORESHWAR PATIL,19.3,73.5
+Maharashtra,Buldhana,521977,46.59,Shivsena,Jadhav Prataprao Ganpatrao,21.05,75.78
+Maharashtra,Chandrapur,559507,45.18,Indian National Congress,Balubhau alias Suresh Narayan Dhanorkar,19.96,79.3
+Maharashtra,Dhule,613533,56.54,Bharatiya Janata Party,Bhamre Subhash Ramrao,20.9,74.77
+Maharashtra,Dindori,567470,49.88,Bharatiya Janata Party,Dr. Bharati Pravin Pawar,20.17,80
+Maharashtra,Gadchiroli Chimur,519968,45.5,Bharatiya Janata Party,ASHOK MAHADEORAO NETE,21.47,80.2
+Maharashtra,Hatkanangle,585776,46.78,Shivsena,Dhairyasheel Sambhajirao Mane,20.56,78.83
+Maharashtra,Hingoli,586312,50.65,Shivsena,Hemant Patil,19.72,77.14
+Maharashtra,Jalgaon,713874,65.6,Bharatiya Janata Party,Unmesh Bhaiyyasaheb Patil,21.0077,75.5626
+Maharashtra,Jalna,698019,57.78,Bharatiya Janata Party,Danve Raosaheb Dadarao,19.85,75.88
+Maharashtra,Kalyan,559723,62.87,Shivsena,Dr. SHRIKANT EKNATH SHINDE,19.25,73.16
+Maharashtra,Kolhapur,749085,56.29,Shivsena,Sanjay Sadashivrao Mandlik,16.705,74.2433
+Maharashtra,Latur,661495,56.22,Bharatiya Janata Party,Sudhakar Tukaram Shrangare,18.41,76.58
+Maharashtra,Madha,586314,48.2,Bharatiya Janata Party,Ranjeetsinha Hindurao Naik- Nimbalkar,20.26,74.52
+Maharashtra,Maval,720663,52.65,Shivsena,SHRIRANG APPA CHANDU BARNE,20.1,72.39
+Maharashtra,Mumbai North,706678,71.4,Bharatiya Janata Party,Gopal Shetty,20.76,73.489
+Maharashtra,Mumbai North central,486672,53.97,Bharatiya Janata Party,POONAM MAHAJAN,20.8924,74
+Maharashtra,Mumbai North East,514599,56.61,Bharatiya Janata Party,Manoj Kotak,18.824,76
+Maharashtra,Mumbai North West,570063,60.55,Shivsena,Gajanan Kirtikar,17.87,77
+Maharashtra,Mumbai South,421937,52.64,Shivsena,Arvind Ganpat Sawant,19.11,73.06
+Maharashtra,Mumbai South central,424913,53.3,Shivsena,Rahul Ramesh Shewale,20,76
+Maharashtra,Nagpur,660221,55.67,Bharatiya Janata Party,NITIN JAIRAM GADKARI,21.1458,79.0882
+Maharashtra,Nanded,486806,43.1,Bharatiya Janata Party,Prataprao Patil Chikhalikar,19.14,77.29
+Maharashtra,Nandurbar,639136,49.86,Bharatiya Janata Party,Dr. Heena Vijaykumar Gavit,20,76.03
+Maharashtra,Nashik,563599,50.27,Shivsena,Godse Hemant Tukaram,19.9975,73.7898
+Maharashtra,Osmanabad,596640,49.52,Shivsena,Omprakash Bhupalsinh Alias Pawan Rajenimbalkar,18.17,76.03
+Maharashtra,Palghar,580479,48.3,Shivsena,Rajendra Dhedya Gavit,19.68,72.75
+Maharashtra,Parbhani,538941,43.02,Shivsena,JADHAV SANJAY (BANDU) HARIBHAU,19.27,76.76
+Maharashtra,Pune,632835,61.13,Bharatiya Janata Party,Girish Bhalchandra Bapat,18.5204,73.8567
+Maharashtra,Raigad,486968,47.49,Nationalist Congress Party,Tatkare Sunil Dattatray,20,76
+Maharashtra,Ramtek,597126,49.9,Shivsena,Krupal Balaji Tumane,21,76.5
+Maharashtra,Ratnagiri sindhudurg,458022,50.83,Shivsena,Vinayak Raut,17,73.29
+Maharashtra,Raver,655386,59.96,Bharatiya Janata Party,Khadse Raksha Nikhil,16.86,74.57
+Maharashtra,Sangli,508995,42.77,Bharatiya Janata Party,Sanjaykaka Patil,16.86,76
+Maharashtra,Satara,579026,51.91,Nationalist Congress Party,SHRIMANT CHH. UDAYANRAJE PRATAPSINHMAHARAJ BHONSLE,17.7,74
+Maharashtra,Shirdi,486820,47.29,Shivsena,SADASHIV KISAN LOKHANDE,21.35,74.88
+Maharashtra,Shirur,635830,49.17,Nationalist Congress Party,Dr. Amol Ramsing Kolhe,21.35,74
+Maharashtra,Solapur,524985,48.41,Bharatiya Janata Party,SHRI. SHA. BRA. DR. JAI SIDHESHWAR SHIVACHARY MAHASWAMIJI,17.6599,75.9064
+Maharashtra,Thane,740969,63.3,Shivsena,RAJAN BABURAO VICHARE,19.2,72.97
+Maharashtra,Wardha,578364,53.92,Bharatiya Janata Party,Ramdas Chandrabhanji Tadas,20.7453,78.6022
+Maharashtra,Yavatmal Washim,542098,46.17,Shivsena,Bhavana Pundlikrao Gawali,20.41,78.13
+Manipur,Inner manipur,263632,34.72,Bharatiya Janata Party,DR RAJKUMAR RANJAN SINGH,24.7333333,93.966666
+Manipur,Outer manipur,363527,42.37,Naga Peoples Front,Lorho S. Pfoze,24.75,93
+Meghalaya,Shillong,419689,53.52,Indian National Congress,VINCENT H. PALA,25.57,91.87
+Meghalaya,Tura,304455,52.22,National People's Party,AGATHA K. SANGMA,25.52,90.22
+Mizoram,MIZORAM,224286,44.89,Mizo National Front,C LALROSANGA,23.1645,92.9376
+Nagaland,Nagaland,500510,49.73,Nationalist Democratic Progressive Party,Tokheho Yepthomi,25.67,74.11
+NCT OF Delhi,CHANDNI CHOWK,519055,52.94,Bharatiya Janata Party,HARSH VARDHAN,28.6505,77.2303
+NCT OF Delhi,EAST DELHI,696156,55.35,Bharatiya Janata Party,GAUTAM GAMBHIR,28.628,77.12
+NCT OF Delhi,NEW DELHI,504206,54.77,Bharatiya Janata Party,MEENAKASHI LEKHI,28.67,77.21
+NCT OF Delhi,NORTH EAST DELHI,787799,53.9,Bharatiya Janata Party,MANOJ TIWARI,28.49,77.22
+NCT OF Delhi,NORTH WEST DELHI,848663,60.49,Bharatiya Janata Party,HANS RAJ HANS,28.68,77.01
+NCT OF Delhi,SOUTH DELHI,687014,56.58,Bharatiya Janata Party,RAMESH BIDHURI,28.68,77.07
+NCT OF Delhi,WEST DELHI,865648,60.05,Bharatiya Janata Party,PARVESH SAHIB SINGH VERMA,28.6663,77.068
+Odisha,Aska,552749,54.52,Biju Janata Dal,Pramila Bisoyi,19.6159,84.333333
+Odisha,Balasore,483858,41.79,Bharatiya Janata Party,PRATAP CHANDRA SARANGI,21.4934,86.9135
+Odisha,Bargarh,581245,46.58,Bharatiya Janata Party,Suresh Pujari,21.347,83.632
+Odisha,Berhampur,443843,44.84,Biju Janata Dal,CHANDRA SEKHAR SAHU,21.06,86.52
+Odisha,Bhadrak,512305,41.86,Biju Janata Dal,MANJULATA MANDAL,21.0574,86.4963
+Odisha,Bhubaneswar,486991,48.45,Bharatiya Janata Party,APARAJITA SARANGI,20.27,85.84
+Odisha,Bolangir,498086,38.12,Bharatiya Janata Party,Sangeeta Kumari Singh Deo,20,84.333333
+Odisha,Cuttack,524592,49.51,Biju Janata Dal,BHARTRUHARI MAHTAB,20.47,85.88
+Odisha,Dhenkanal,522884,46.21,Biju Janata Dal,MAHESH SAHOO,20,85
+Odisha,Jagatsinghpur,619985,50.44,Biju Janata Dal,RAJASHREE MALLICK,22.21,85.4
+Odisha,Jajpur,544020,49.81,Biju Janata Dal,SARMISTHA SETHI,18.86,82.56
+Odisha,Kalahandi,433074,35.26,Bharatiya Janata Party,BASANTA KUMAR PANDA,19.9137,83.1649
+Odisha,Kandhamal,461679,49.01,Biju Janata Dal,ACHYUTANANDA SAMANTA,20.5,84.333333
+Odisha,Kendrapara,628939,50.87,Biju Janata Dal,Anubhav Mohanty,21.5,86
+Odisha,Keonjhar,526359,44.75,Biju Janata Dal,Chandrani Murmu,21.63,85.58
+Odisha,Koraput,371129,34.36,Indian National Congress,SAPTAGIRI SANKAR ULAKA,20,84.333333
+Odisha,Mayurbhanj,483812,42.06,Bharatiya Janata Party,BISHWESWAR TUDU,20,84
+Odisha,Nabarangpur,392504,33.85,Biju Janata Dal,RAMESH CHANDRA MAJHI,19.81,85.83
+Odisha,Puri,538321,47.4,Biju Janata Dal,PINAKI MISRA,21,84.333333
+Odisha,Sambalpur,473770,42.13,Bharatiya Janata Party,NITESH GANGA DEB,21.4669,83.9812
+Odisha,Sundargarh,500056,45.45,Bharatiya Janata Party,Jual Oram,18.69,80.86
+Puducherry,Puducherry,444981,56.27,Indian National Congress,Ve. VAITHILINGAM,11.9333333,79.8833333
+Punjab,Amritsar,445032,51.78,Indian National Congress,GURJEET SINGH AUJLA,31.634,74.8723
+Punjab,Anandpur Sahib,428045,39.57,Indian National Congress,Manish Tewari,31.2355,76.5013
+Punjab,Bathinda,492824,41.04,Shiromani Akali Dal,Harsimrat Kaur Badal,30.17,74.97
+Punjab,Faridkot,419065,42.98,Indian National Congress,Mohammad Sadique,30.38,74.74
+Punjab,Fatehgarh Sahib,411651,41.75,Indian National Congress,AMAR SINGH,30.95,74.6
+Punjab,Firozpur,633427,54.05,Shiromani Akali Dal,SUKHBIR SINGH BADAL,30.92,74.61
+Punjab,Gurdaspur,558719,50.61,Bharatiya Janata Party,SUNNY DEOL,32.04,75.47
+Punjab,Hoshiarpur,421320,42.52,Bharatiya Janata Party,SOM PARKASH,31.53,75.91
+Punjab,Jalandhar,385712,37.85,Indian National Congress,Santokh Singh Chaudhary,31.326,75.5762
+Punjab,Khadoor Sahib,459710,43.95,Indian National Congress,JASBIR SINGH GILL (DIMPA),30,75
+Punjab,Ludhiana,383795,36.66,Indian National Congress,RAVNEET SINGH BITTU,30.901,75.8573
+Punjab,Patiala,532027,45.17,Indian National Congress,Preneet Kaur,30.32,76.39
+Punjab,Sangrur,413561,37.4,Aam Aadmi Party,BHAGWANT MANN,30.066666,75.0833333
+Rajasthan,Ajmer,815076,64.58,Bharatiya Janata Party,Bhagirath Chaudhary,26.4499,74.6399
+Rajasthan,Alwar,760201,60.06,Bharatiya Janata Party,Balak Nath,27.553,76.6346
+Rajasthan,Banswara,711709,49.44,Bharatiya Janata Party,KANAKMAL KATARA,23.54,74.44
+Rajasthan,Barmer,846526,59.52,Bharatiya Janata Party,KAILASH CHOUDHARY,25.75,71.34
+Rajasthan,BHARATPUR,707992,61.74,Bharatiya Janata Party,RANJEETA KOLI,27.23,77.49
+Rajasthan,Bhilwara,938160,71.59,Bharatiya Janata Party,SUBHASH CHANDRA BAHERIA,25.35,74.63
+Rajasthan,Bikaner (SC),657743,59.82,Bharatiya Janata Party,ARJUN RAM MEGHWAL,28.0229,73.3119
+Rajasthan,Chittorgarh,982942,67.38,Bharatiya Janata Party,Chandra Prakash Joshi,24.89,74.63
+Rajasthan,Churu,792999,59.69,Bharatiya Janata Party,RAHUL KASWAN,28.31,74.96
+Rajasthan,Dausa,548733,51.63,Bharatiya Janata Party,Jaskaur Meena,26.88,76.33
+Rajasthan,Ganganagar,897177,61.8,Bharatiya Janata Party,NIHAL CHAND,29.93,73.86
+Rajasthan,Jaipur,924065,63.45,Bharatiya Janata Party,Ramcharan Bohra,26.9124,75.7873
+Rajasthan,Jaipur Rural,820132,64.24,Bharatiya Janata Party,COL. RAJYAVARDHAN RATHORE,26.92,75.8
+Rajasthan,Jalore,772833,56.76,Bharatiya Janata Party,Devaji Patel,25.35,72.62
+Rajasthan,JHALAWAR BARAN,887400,64.78,Bharatiya Janata Party,DUSHYANT SINGH,24.6,76.15
+Rajasthan,Jhunjhunu,738163,61.57,Bharatiya Janata Party,NARENDRA KUMAR,28.13,75.39
+Rajasthan,Jodhpur,788888,58.6,Bharatiya Janata Party,Gajendra Singh Shekhawat,26.2389,73.0243
+Rajasthan,KARAULI DHOLPUR,526443,52.75,Bharatiya Janata Party,MANOJ RAJORIA,26.5,77.02
+Rajasthan,Kota,800051,58.52,Bharatiya Janata Party,OM BIRLA,25.2138,75.8648
+Rajasthan,Nagaur,660051,54.86,Rashtriya Loktantrik Party,HANUMAN BENIWAL,27.21,73.73
+Rajasthan,Pali,900149,66.2,Bharatiya Janata Party,P. P. CHAUDHARY,25.79,73.32
+Rajasthan,Rajsamand,863039,69.61,Bharatiya Janata Party,Diya Kumari,25.07,73.88
+Rajasthan,Sikar,772104,58.19,Bharatiya Janata Party,Sumedhanand Saraswati,27.61,75.13
+Rajasthan,TONK SAWAI MADHOPUR,644319,52.24,Bharatiya Janata Party,Sukhbir Singh Jaunapuria,26.17,75.78
+Rajasthan,Udaipur,871548,59.92,Bharatiya Janata Party,ARJUNLAL MEENA,24.5854,73.7125
+Sikkim,Sikkim,166922,47.46,Sikkim Krantikari Morcha,INDRA HANG SUBBA,27.3,88.3
+Tamil Nadu,Arakkonam,672190,57.06,Dravida Munnetra Kazhagam,S. JAGATHRAKSHAKAN,13.08,79.72
+Tamil Nadu,Arani,617760,54,Indian National Congress,VISHNU PRASAD M K,12.6713,79.2818
+Tamil Nadu,Chennai central,448911,57.15,Dravida Munnetra Kazhagam,DAYANIDHI MARAN,12.67,79.28
+Tamil Nadu,Chennai North,590986,61.85,Dravida Munnetra Kazhagam,Dr. KALANIDHI VEERASWAMY,12.6,79.2
+Tamil Nadu,Chennai South,564872,50.17,Dravida Munnetra Kazhagam,T.SUMATHY (A) THAMIZHACHI THANGAPANDIAN,12.67,79.28
+Tamil Nadu,Chidambaram,500229,43.38,Viduthalai Chiruthaigal Katchi,THIRUMAAVALAVAN THOL,11.407,79.6912
+Tamil Nadu,Coimbatore,571150,45.66,Communist Party of India (Marxist),NATARAJAN. P.R,11.6113,79.6502
+Tamil Nadu,Cuddalore,522160,50.05,Dravida Munnetra Kazhagam,T. R. V .S. RAMESH,12.7,79.97
+Tamil Nadu,Dharmapuri,574988,47.01,Dravida Munnetra Kazhagam,DNV SENTHILKUMAR. S.,12.13,78.16
+Tamil Nadu,Dindigul,746523,64.35,Dravida Munnetra Kazhagam,VELUSAMY P,10.36,77.97
+Tamil Nadu,Erode,563591,52.78,Dravida Munnetra Kazhagam,GANESHAMURTHI A,11.35,77.73
+Tamil Nadu,Kallakurichi,721713,59.92,Dravida Munnetra Kazhagam,Gautham Sigamani Pon,9.08,77.35
+Tamil Nadu,Kancheepuram,684004,55.27,Dravida Munnetra Kazhagam,Selvam.G,12.8185,79.6947
+Tamil Nadu,Kanniyakumari,627235,59.83,Indian National Congress,Vasanthakumar. H,9.08,77.35
+Tamil Nadu,Karur,695697,63.06,Indian National Congress,Jothimani S,10.96,78.07
+Tamil Nadu,Krishnagiri,611298,52.64,Indian National Congress,Dr.A.CHELLAKUMAR,12.54,78.21
+Tamil Nadu,Madurai,447075,44,Communist Party of India (Marxist),VENKATESAN S,9.92,78.12
+Tamil Nadu,Mayiladuthurai,599292,54.62,Dravida Munnetra Kazhagam,RAMALINGAM. S,11.11,79.65
+Tamil Nadu,Nagapattinam,522892,52.17,Communist Party of India,SELVARAJ M,10.8,79.84
+Tamil Nadu,Namakkal,626293,55.24,Dravida Munnetra Kazhagam,CHINRAJ A.K.P,11.23,78.17
+Tamil Nadu,Nilgiris,547832,54.2,Dravida Munnetra Kazhagam,RAJA A,11.416667,76.683334
+Tamil Nadu,Perambalur,683697,62,Dravida Munnetra Kazhagam,Dr.PAARIVENDHAR T. R,9.54,78.59
+Tamil Nadu,Pollachi,554230,51.23,Dravida Munnetra Kazhagam,SHANMUGA SUNDARAM. K,10.67,77
+Tamil Nadu,Ramanathapuram,469943,44.08,Indian Union Muslim League,K. NAVASKANI,9.37,78.83
+Tamil Nadu,Salem,606302,48.29,Dravida Munnetra Kazhagam,PARTHIBAN.S.R,11.67,78.16
+Tamil Nadu,Sivaganga,566104,52.2,Indian National Congress,KARTI P CHIDAMBARAM,9.46,77.79
+Tamil Nadu,Sriperumbudur,793281,56.39,Dravida Munnetra Kazhagam,Baalu.T.R.,9.52,77.63
+Tamil Nadu,Tenkasi,476156,44.69,Dravida Munnetra Kazhagam,DHANUSH.M.KUMAR,8.96,77.31
+Tamil Nadu,Thanjavur,588978,55.6,Dravida Munnetra Kazhagam,PALANIMANICKAM S.S,10.79,79.13
+Tamil Nadu,Theni,504813,43.02,All India Anna Dravida Munnetra Kazhagam,RAVEENDRANATH KUMAR,10.02,77.48
+Tamil Nadu,Thiruvallur,767292,54.49,Indian National Congress,Dr.K.Jayakumar,10.78,79.64
+Tamil Nadu,Thoothukkudi,563143,56.81,Dravida Munnetra Kazhagam,KANIMOZHI KARUNANIDHI,8.81,78.14
+Tamil Nadu,Tiruchirappalli,621285,59.28,Indian National Congress,Thirunavukkarasar. SU,10.830512,78.682419
+Tamil Nadu,Tirunelveli,522623,50.26,Dravida Munnetra Kazhagam,GNANATHIRAVIAM S,8.73,77.69
+Tamil Nadu,Tiruppur,508725,45.44,Communist Party of India,SUBBARAYAN K,11.09,77.35
+Tamil Nadu,Tiruvannamalai,666272,57.85,Dravida Munnetra Kazhagam,ANNADURAI C N,12.24,79.07
+Tamil Nadu,Viluppuram,559585,49.28,Dravida Munnetra Kazhagam,RAVIKUMAR D,11.95,79.49
+Tamil Nadu,Virudhunagar,470883,43.81,Indian National Congress,MANICKAM TAGORE B,11.51,79.32
+Telangana,Adilabad,377374,35.48,Bharatiya Janata Party,SOYAM BAPU RAO,19.6641,78.532
+Telangana,Bhongir,532795,43.94,Indian National Congress,Komati Reddy Venkat Reddy,17.52,78.88
+Telangana,CHEVELLA,528148,40.62,Telangana Rashtra Samithi,Dr. G. Ranjith Reddy,17.33124,78.1385
+Telangana,Hyderabad,517471,58.95,All India Majlis-E-Ittehadul Muslimeen,ASADUDDIN OWAISI,17.385,78.4867
+Telangana,Karimnagar,498276,43.42,Bharatiya Janata Party,BANDI SANJAY KUMAR,18.4386,79.1288
+Telangana,Khammam,567459,49.78,Telangana Rashtra Samithi,NAMA NAGESWR RAO,17.25,80.15
+Telangana,Mahabubabad,462109,46.98,Telangana Rashtra Samithi,Kavitha Malothu,16.74,77.98
+Telangana,Mahbubnagar,411402,41.78,Telangana Rashtra Samithi,MANNE SRINIVAS REDDY,16.7488,78.0035
+Telangana,Malkajgiri,603748,38.63,Indian National Congress,ANUMULA REVANTH REDDY,17.55,78.59
+Telangana,Medak,596048,51.82,Telangana Rashtra Samithi,Kotha Prabhakar Reddy,18.88,79.45
+Telangana,Nagarkurnool,499672,50.48,Telangana Rashtra Samithi,POTHUGANTI RAMULU,15.49,78.48
+Telangana,Nalgonda,526028,44.74,Indian National Congress,UTTAM KUMAR REDDY NALAMADA,17.0575,79.2684
+Telangana,Nizamabad,480584,45.22,Bharatiya Janata Party,ARVIND DHARMAPURI,18.6725,78.094
+Telangana,Peddapalle,441321,45.49,Telangana Rashtra Samithi,Venkatesh Netha Borlakunta,14.5934,74.3456
+Telangana,Secundrabad,384780,42.05,Bharatiya Janata Party,G . KISHAN REDDY,17.47,78.52
+Telangana,Warangal,612498,57.69,Telangana Rashtra Samithi,DAYAKAR PASUNOORI,17.9689,79.5941
+Telangana,Zahirabad,434244,41.58,Telangana Rashtra Samithi,B.B.PATIL,17.6795,77.6051
+Tripura,Tripura East,482126,46.12,Bharatiya Janata Party,Rebati Tripura,23.75,91.5
+Tripura,Tripura West,573532,51.77,Bharatiya Janata Party,Pratima Bhoumik,23.84,91.27
+Uttar Pradesh,Agra,646875,56.48,Bharatiya Janata Party,Satyapal Singh Baghel,27.19,78.01
+Uttar Pradesh,Akbarpur,581282,56.69,Bharatiya Janata Party,Devendra Singh 'Bhole',27.19,78.01
+Uttar Pradesh,Aligarh,656215,56.42,Bharatiya Janata Party,SATISH KUMAR GAUTAM,27.89,78.06
+Uttar Pradesh,Allahabad,494454,55.62,Bharatiya Janata Party,Rita Bahuguna Joshi,25.45,81.84
+Uttar Pradesh,Ambedkar Nagar,564118,51.75,Bahujan Samaj Party,Ritesh Pandey,25.45,82.8
+Uttar Pradesh,Amethi,468514,49.71,Bharatiya Janata Party,Smriti Irani,28.91,78.46
+Uttar Pradesh,Amroha,601082,51.41,Bahujan Samaj Party,KUNWAR DANISH ALI,28.91,78.46
+Uttar Pradesh,Aonla,537675,51.07,Bharatiya Janata Party,DHARMENDRA KASHYAP,28.28,79.15
+Uttar Pradesh,Azamgarh,621578,60.4,Samajwadi Party,Akhilesh Yadav,26.07,83.18
+Uttar Pradesh,Badaun,511352,47.3,Bharatiya Janata Party,Dr. Sanghmitra Maurya,28.78,79.5
+Uttar Pradesh,Baghpat,525789,50.32,Bharatiya Janata Party,Dr. SATYAPAL SINGH,28.78,79.5
+Uttar Pradesh,Bahraich,525982,53.14,Bharatiya Janata Party,AKSHAIBAR LAL,27.58,81.59
+Uttar Pradesh,Ballia,469114,47.4,Bharatiya Janata Party,Virendra Singh,25.76,84.15
+Uttar Pradesh,Banda,477926,46.2,Bharatiya Janata Party,R.K. SINGH PATEL,25.48,80.33
+Uttar Pradesh,Bansgaon,546673,56.41,Bharatiya Janata Party,Kamlesh Paswan,25.48,80.33
+Uttar Pradesh,Barabanki,535917,46.39,Bharatiya Janata Party,Upendra Singh Rawat,29.1,77.26
+Uttar Pradesh,Bareilly,565270,52.91,Bharatiya Janata Party,SANTOSH KUMAR GANGWAR,28.36,79.41
+Uttar Pradesh,Basti,471162,44.68,Bharatiya Janata Party,HARISH CHANDRA ALIAS HARISH DWIVEDI,26.8,82.74
+Uttar Pradesh,Bhadohi,510029,49.07,Bharatiya Janata Party,RAMESH CHAND,25.4,82.56
+Uttar Pradesh,Bijnor,561045,50.97,Bahujan Samaj Party,MALOOK NAGAR,29.38,78.13
+Uttar Pradesh,Bulandshahr,681321,60.64,Bharatiya Janata Party,BHOLA SINGH,28.41,77.85
+Uttar Pradesh,Chandauli,510733,47.07,Bharatiya Janata Party,Dr. Mahendra Nath Pandey,28.46,78.78
+Uttar Pradesh,Deoria,580644,57.19,Bharatiya Janata Party,RAMAPATI RAM TRIPATHI,26.51,83.78
+Uttar Pradesh,Dhaurahra,512905,48.21,Bharatiya Janata Party,REKHA VERMA,26.51,83.78
+Uttar Pradesh,Domariyaganj,492253,49.96,Bharatiya Janata Party,JAGDAMBIKA PAL,29.7,77.67
+Uttar Pradesh,Etah,545348,54.56,Bharatiya Janata Party,Rajveer Singh (Raju Bhaiya),27.57,78.64
+Uttar Pradesh,Etawah,522119,50.8,Bharatiya Janata Party,Dr RAM SHANKAR KATHERIA,26.78,79.02
+Uttar Pradesh,Faizabad,529021,48.66,Bharatiya Janata Party,LALLU SINGH,26.78,82.14
+Uttar Pradesh,Farrukhabad,569880,56.82,Bharatiya Janata Party,Mukesh Rajput,27.4,79.57
+Uttar Pradesh,Fatehpur,566040,54.24,Bharatiya Janata Party,NIRANJAN JYOTI,25.93,80.81
+Uttar Pradesh,Fatehpur Sikri,667147,64.32,Bharatiya Janata Party,RAJKUMAR CHAHAR,25.93,80.81
+Uttar Pradesh,Firozabad,495819,46.09,Bharatiya Janata Party,Dr. Chandra Sen Jadon,27.15,78.39
+Uttar Pradesh,Gautam Buddha Nagar,830812,59.64,Bharatiya Janata Party,Dr. MAHESH SHARMA,28.85,78.23
+Uttar Pradesh,Ghaziabad,944503,61.96,Bharatiya Janata Party,Vijay Kumar Singh,28.66,77.41
+Uttar Pradesh,Ghazipur,566082,51.2,Bahujan Samaj Party,AFZAL ANSARI,25.59,83.59
+Uttar Pradesh,Ghosi,573829,50.3,Bahujan Samaj Party,ATUL KUMAR SINGH,27.14,81.95
+Uttar Pradesh,Gonda,508190,55.01,Bharatiya Janata Party,KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA,26.76,83.36
+Uttar Pradesh,Gorakhpur,717122,60.54,Bharatiya Janata Party,Ravindra Shyamnarayan Shukla alias Ravi Kishan,26.7606,83.3732
+Uttar Pradesh,Hamirpur,575122,52.77,Bharatiya Janata Party,KUNWAR PUSHPENDRA SINGH CHANDEL,28.73,77.77
+Uttar Pradesh,Hardoi,568143,53.72,Bharatiya Janata Party,Jai Prakash,27.42,80.12
+Uttar Pradesh,Hathras,684299,59.49,Bharatiya Janata Party,RAJVIR DILER,27.6,78.04
+Uttar Pradesh,Jalaun,581763,51.49,Bharatiya Janata Party,BHANU PRATAP SINGH VERMA,26.15,79.35
+Uttar Pradesh,Jaunpur,521128,50.08,Bahujan Samaj Party,SHYAM SINGH YADAV,25.76,82.69
+Uttar Pradesh,Jhansi,809272,58.61,Bharatiya Janata Party,Anurag Sharma,25.45,78.56
+Uttar Pradesh,Kairana,566961,50.44,Bharatiya Janata Party,Pradeep Kumar,29.4,77.2
+Uttar Pradesh,Kaiserganj,581358,59.24,Bharatiya Janata Party,Brijbhusan Sharan Singh,29.4,77.2
+Uttar Pradesh,Kannauj,563087,49.37,Bharatiya Janata Party,SUBRAT PATHAK,27.06,79.91
+Uttar Pradesh,Kanpur,468937,55.63,Bharatiya Janata Party,Satyadev Pachauri,26.47,80.33
+Uttar Pradesh,Kaushambi,383009,39.31,Bharatiya Janata Party,VINOD KUMAR SONKAR,26.47,80.33
+Uttar Pradesh,Kheri,609589,53.63,Bharatiya Janata Party,Ajay Kumar,27.03,79.91
+Uttar Pradesh,Kushi Nagar,597039,56.69,Bharatiya Janata Party,VIJAY KUMAR DUBEY,28.73,77.77
+Uttar Pradesh,Lalganj,518820,54.01,Bahujan Samaj Party,Sangeeta Azad,27.72,80.9
+Uttar Pradesh,Lucknow,633026,56.7,Bharatiya Janata Party,Rajnath Singh,26.85,80.92
+Uttar Pradesh,Machhlishahr,488397,47.19,Bharatiya Janata Party,Bholanath (B.P. Saroj),25.3,79.87
+Uttar Pradesh,Maharajganj,726349,59.2,Bharatiya Janata Party,PANKAJ CHOUDHARY,27.24,79.02
+Uttar Pradesh,Mainpuri,524926,53.75,Samajwadi Party,MULAYAM SINGH YADAV,27.24,79.02
+Uttar Pradesh,Mathura,671293,60.88,Bharatiya Janata Party,HEMA MALINI,27.5,77.68
+Uttar Pradesh,Meerut,586184,48.19,Bharatiya Janata Party,RAJENDRA AGARWAL,28.99,77.7
+Uttar Pradesh,Mirzapur,591564,53.34,Apna Dal (Soneylal),Anupriya Singh Patel,25.16,82.56
+Uttar Pradesh,Misrikh,534429,52.05,Bharatiya Janata Party,Ashok Kumar Rawat,25.16,82.56
+Uttar Pradesh,Mohanlalganj,629748,49.62,Bharatiya Janata Party,Kaushal Kishore,25.24,79.13
+Uttar Pradesh,Moradabad,649416,50.65,Samajwadi Party,Dr. S.T. HASAN,28.84,78.76
+Uttar Pradesh,Muzaffarnagar,573780,49.46,Bharatiya Janata Party,Sanjeev Kumar Balyan,28.92,77.62
+Uttar Pradesh,Nagina,568378,56.31,Bahujan Samaj Party,GIRISH CHANDRA,29.45,78.43
+Uttar Pradesh,Phulpur,544701,55.68,Bharatiya Janata Party,Keshari Devi Patel,28.64,79.81
+Uttar Pradesh,Pilibhit,704549,59.38,Bharatiya Janata Party,Feroze Varun Gandhi,28.64,79.81
+Uttar Pradesh,Pratapgarh,436291,47.7,Bharatiya Janata Party,SANGAM LAL GUPTA,28.92,77.62
+Uttar Pradesh,Rae Bareli,534918,55.8,Indian National Congress,SONIA GANDHI,26.23,81.23
+Uttar Pradesh,Rampur,559177,52.71,Samajwadi Party,Mohammad Azam Khan,28.82,79.02
+Uttar Pradesh,Robertsganj,447914,45.32,Apna Dal (Soneylal),PAKAURI LAL KOL,25.58,79.57
+Uttar Pradesh,Saharanpur,514139,41.74,Bahujan Samaj Party,HAJI FAZLUR REHMAN,29.97,77.54
+Uttar Pradesh,Salempur,467241,50.73,Bharatiya Janata Party,RAVINDER,29.46,77.31
+Uttar Pradesh,Sambhal,658006,55.6,Samajwadi Party,DR. SHAFIQUR REHMAN BARQ,28.59,78.56
+Uttar Pradesh,Sant Kabir Nagar,467543,43.97,Bharatiya Janata Party,PRAVEEN KUMAR NISHAD,27.57,80.69
+Uttar Pradesh,Shahjahanpur,688990,58.09,Bharatiya Janata Party,Arun Kumar Sagar,27.88,79.9
+Uttar Pradesh,Shrawasti,441771,44.31,Bahujan Samaj Party,RAM SHIROMANI,28.08,78.56
+Uttar Pradesh,Sitapur,514528,48.33,Bharatiya Janata Party,Rajesh Verma,27.57,80.69
+Uttar Pradesh,Sultanpur,459196,45.91,Bharatiya Janata Party,MANEKA SANJAI GANDHI,26.26,82.06
+Uttar Pradesh,Unnao,703507,56.87,Bharatiya Janata Party,Swami Sakshi Ji Maharaj,26.55,80.49
+Uttar Pradesh,Varanasi,674664,63.62,Bharatiya Janata Party,NARENDRA MODI,25.32,83.01
+Uttarakhand,Almora,444651,64.03,Bharatiya Janata Party,Ajay Tamta,29.58,79.64
+Uttarakhand,Garhwal,506980,68.25,Bharatiya Janata Party,Tirath Singh Rawat,29.23,79.52
+Uttarakhand,Hardwar,665674,52.37,Bharatiya Janata Party,Ramesh Pokhriyal 'Nishank',29.98,78.16
+Uttarakhand,Nainital udhamsingh Nagar,772195,61.35,Bharatiya Janata Party,Ajay Bhatt,29.98,78.16
+Uttarakhand,Tehri Garhwal,565333,64.53,Bharatiya Janata Party,MALA RAJYA LAXMI SHAH,29.87,77.89
+West Bengal,Alipurduars,750804,54.4,Bharatiya Janata Party,JOHN BARLA,26.5,89.53
+West Bengal,Arambagh,649929,44.15,All India Trinamool Congress,APARUPA PODDAR (AFRIN ALI),22.8765,87.791
+West Bengal,Asansol,633378,51.16,Bharatiya Janata Party,BABUL SUPRIYO,23.6889,86.9661
+West Bengal,Baharampur,591106,45.47,Indian National Congress,ADHIR RANJAN CHOWDHURY,24.1,88.24
+West Bengal,Balurghat,539317,45.02,Bharatiya Janata Party,Sukanta Majumdar,25.23,88.77
+West Bengal,Bangaon,687622,48.85,Bharatiya Janata Party,SHANTANU THAKUR,23.05,88.83
+West Bengal,Bankura,675319,49.23,Bharatiya Janata Party,DR. SUBHAS SARKAR,23.24,87.07
+West Bengal,Barasat,648084,46.47,All India Trinamool Congress,Dr. Kakoli Ghoshdastidar,22.58,88.31
+West Bengal,Bardhaman Durgapur,598376,41.76,Bharatiya Janata Party,S.S AHLUWALIA,23.24,87.86
+West Bengal,Bardhaman Purba,640834,44.52,All India Trinamool Congress,SUNIL KUMAR MONDAL,23.24,87.86
+West Bengal,Barrackpore,472994,42.82,Bharatiya Janata Party,ARJUN SINGH,22.58,88.31
+West Bengal,Basirhat,782078,54.56,All India Trinamool Congress,Nusrat Jahan Ruhi,22.66,88.35
+West Bengal,Birbhum,654077,45.13,All India Trinamool Congress,SATABDI ROY,22.66,88.35
+West Bengal,Bishnupur,657019,46.25,Bharatiya Janata Party,KHAN SAUMITRA,23.08,87.33
+West Bengal,Bolpur,699171,47.85,All India Trinamool Congress,ASIT KUMAR MAL,23.67,87.7
+West Bengal,Cooch behar,731594,47.98,Bharatiya Janata Party,NISITH PRAMANIK,26.34,89.44
+West Bengal,Darjeeling,750067,59.19,Bharatiya Janata Party,RAJU BISTA,27.05,88.26
+West Bengal,Diamond harbour,791127,56.15,All India Trinamool Congress,ABHISHEK BANERJEE,22.19,88.18
+West Bengal,Dum dum,512062,42.51,All India Trinamool Congress,SOUGATA RAY,22.63,88.42
+West Bengal,Ghatal,717959,48.22,All India Trinamool Congress,ADHIKARI DEEPAK (DEV),22.67,87.72
+West Bengal,Hooghly,671448,46.06,Bharatiya Janata Party,LOCKET CHATTERJEE,22.89,88.24
+West Bengal,Howrah,576711,47.18,All India Trinamool Congress,Prasun Banerjee,22.58,88.33
+West Bengal,Jadavpur,688472,47.91,All India Trinamool Congress,MIMI CHAKRABORTY,22.84,88.62
+West Bengal,Jalpaiguri,760145,50.65,Bharatiya Janata Party,Dr. JAYANTA KUMAR ROY,26.52,88.72
+West Bengal,Jangipur,562838,43.15,All India Trinamool Congress,KHALILUR RAHAMAN,24.47,88.07
+West Bengal,Jhargram,626583,44.56,Bharatiya Janata Party,Kunar Hembram,22.45,86.98
+West Bengal,Joynagar,761202,56.13,All India Trinamool Congress,PRATIMA MONDAL,24.47,88.07
+West Bengal,Kanthi,711872,49.98,All India Trinamool Congress,Adhikari Sisir,23.95,88.03
+West Bengal,Kolkata Dakshin,573119,47.5,All India Trinamool Congress,Mala Roy,23.95,88.03
+West Bengal,Kolkata Uttar,474891,49.96,All India Trinamool Congress,BANDYOPADHYAY SUDIP,23.1,87.9
+West Bengal,Krishnanagar,614872,45,All India Trinamool Congress,MAHUA MOITRA,23.41,88.51
+West Bengal,Maldaha Dakshin,444270,34.73,Indian National Congress,ABU HASEM KHAN CHOWDHURY (DALU),22.77,88.36
+West Bengal,Maldaha Uttar,509524,37.61,Bharatiya Janata Party,KHAGEN MURMU,22.77,88.36
+West Bengal,Mathurapur,726828,51.84,All India Trinamool Congress,CHOUDHURY MOHAN JATUA,23.95,88.03
+West Bengal,Medinipur,685433,48.62,Bharatiya Janata Party,Dilip Ghosh,22.33,87.25
+West Bengal,Murshidabad,604346,41.57,All India Trinamool Congress,ABU TAHER KHAN,22.7,88.45
+West Bengal,Purulia,668107,49.3,Bharatiya Janata Party,JYOTIRMAY SINGH MAHATO,23.34,88.5
+West Bengal,Raiganj,511652,40.06,Bharatiya Janata Party,DEBASREE CHAUDHURI,25.62,88.12
+West Bengal,Ranaghat,783253,52.78,Bharatiya Janata Party,JAGANNATH SARKAR,23.19,88.58
+West Bengal,Srerampur,637707,45.5,All India Trinamool Congress,KALYAN BANERJEE,23.26,88.44
+West Bengal,Tamluk,724433,50.08,All India Trinamool Congress,Adhikari Dibyendu,22.74,88.38
+West Bengal,Uluberia,694945,53,All India Trinamool Congress,SAJDA AHMED,22.47,88.11
