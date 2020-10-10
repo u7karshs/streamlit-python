@@ -21,11 +21,13 @@ st.markdown("Faculty: Geetha Mani\n\n SELECT School\n\nVIT Vellore")
 
 st.sidebar.title("Visualization")
     
-DATA_URL=("try11.csv")
+#DATA_URL=("try11.csv")
+DATA_URL=("https://raw.githubusercontent.com/u7karshs/streamlit_python/main/try11.csv")
+#can use github dataset(csv) url
 
-#can use github url
+#caching for fast loading
+@st.cache(persist=True)   
 
-#@st.cache(persist=True)   """caching for fast loading"""
 def load_data():
     data=pd.read_csv(DATA_URL)
     return data
