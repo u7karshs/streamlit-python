@@ -22,7 +22,7 @@ st.markdown("Faculty: Geetha Mani\n\n SELECT School\n\nVIT Vellore")
 st.sidebar.title("Visualization")
     
 #DATA_URL=("try11.csv")
-DATA_URL=("https://raw.githubusercontent.com/u7karshs/streamlit_python/main/try11.csv")
+DATA_URL=("https://raw.githubusercontent.com/u7karshs/streamlit-python/main/try11.csv")
 #can use github dataset(csv) url
 
 #caching for fast loading
@@ -109,11 +109,3 @@ if not st.sidebar.checkbox("close", True, key='4'):
     plt.xticks([])
     plt.yticks([])
     st.pyplot()
-
-
-
-
-
-
-
-        
