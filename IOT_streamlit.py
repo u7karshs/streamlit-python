@@ -11,7 +11,6 @@ st.sidebar.title("Interactive Dashboards")
 
 st.markdown("It is an interactive dashboard developed with streamlit and python!\n\nHere we have used Indian general election results-2019 (Winning-Candidates) Data-Set for the visualization.")
 
-st.title("Project Team")
 st.markdown("Made By:\n\n UTKARSH SRIVASTAVA")
 
 
